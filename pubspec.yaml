@@ -1,7 +1,8 @@
 name: aba_package
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://google.com 
+repository: https://github.com/tfx-alf/aba_package.git
 
 environment:
   sdk: ^3.8.1
